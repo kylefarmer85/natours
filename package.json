@@ -1,0 +1,17 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylefarmer85/natours.git"
+  },
+  "author": "Kyle Farmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylefarmer85/natours/issues"
+  },
+  "homepage": "https://github.com/kylefarmer85/natours#readme"
+}
